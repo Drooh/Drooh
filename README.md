@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="robotics_banner.jpg" alt="Industrial Robotics" width="100%">
+</p>
+
 # Brighton Kalenga
 
 **Artificial Intelligence | Robotics | Automation Systems**
