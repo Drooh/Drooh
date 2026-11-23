@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="robotics_banner.jpg" alt="Industrial Robotics" width="100%">
+  <img src="robotic_arm.png" alt="Industrial Robotics" width="100%">
 </p>
 
 # Brighton Kalenga
