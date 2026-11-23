@@ -44,3 +44,20 @@ My long-term ambition is to contribute to the development of intelligent robotic
 ![VS Code](https://img.shields.io/badge/VS%20Code-30363D?style=flat-square)
 ![Jupyter](https://img.shields.io/badge/Jupyter-30363D?style=flat-square&logo=jupyter&logoColor=white)
 
+---
+
+## Technical & Engineering Interests
+
+My technical interests centre on the integration of intelligent software and physical engineering systems, with a particular focus on:
+
+- Artificial Intelligence & Machine Learning
+- Robotics & Autonomous Systems
+- Computer Vision & Environmental Perception
+- Systems Engineering
+- Intelligent Automation & Control Systems
+- Mathematical & Computational Modelling
+
+I am particularly interested in exploring how these disciplines can be integrated to develop intelligent, reliable and efficient engineering solutions.
+
+
+
