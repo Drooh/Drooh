@@ -59,5 +59,12 @@ My technical interests centre on the integration of intelligent software and phy
 
 I am particularly interested in exploring how these disciplines can be integrated to develop intelligent, reliable and efficient engineering solutions.
 
+---
+
+## Connect & Collaborate
+
+I welcome opportunities to exchange ideas and collaborate with like-minded professionals on projects involving artificial intelligence, robotics and innovative engineering solutions.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-24465E?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/drooh/)
 
 
