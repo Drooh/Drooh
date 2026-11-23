@@ -4,11 +4,9 @@
 
 # Brighton Kalenga
 
-**Artificial Intelligence | Robotics | Automation Systems**
+**Artificial Intelligence | Robotics | Intelligent Automation**
 
 *Bridging the gap between theory and practice.*
-
----
 
 ## About Me
 
@@ -16,13 +14,9 @@ I am a technology professional with a strong interest in artificial intelligence
 
 My approach combines technical problem-solving with strategic thinking, research and analytical reasoning, with an emphasis on bridging the gap between theory and practical implementation.
 
-Through this platform, I aim showcase technical projects and explore the integration of artificial intelligence, software engineering and mathematics in solving real-world engineering challenges.
+Through this platform, I aim to showcase technical projects and explore the integration of artificial intelligence, software engineering and mathematics in solving real-world engineering challenges.
 
 My long-term ambition is to contribute to the development of intelligent robotic and autonomous systems through a systems engineering approach.
-
----
-
----
 
 ## Technical Skills & Tools
 
@@ -44,8 +38,6 @@ My long-term ambition is to contribute to the development of intelligent robotic
 ![VS Code](https://img.shields.io/badge/VS%20Code-30363D?style=flat-square)
 ![Jupyter](https://img.shields.io/badge/Jupyter-30363D?style=flat-square&logo=jupyter&logoColor=white)
 
----
-
 ## Technical & Engineering Interests
 
 My technical interests centre on the integration of intelligent software and physical engineering systems, with a particular focus on:
@@ -58,8 +50,6 @@ My technical interests centre on the integration of intelligent software and phy
 - Mathematical & Computational Modelling
 
 I am particularly interested in exploring how these disciplines can be integrated to develop intelligent, reliable and efficient engineering solutions.
-
----
 
 ## Connect & Collaborate
 
